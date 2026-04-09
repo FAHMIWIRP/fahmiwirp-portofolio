@@ -43,7 +43,8 @@ A web-based marketplace platform supporting UMKM and the creative economy in Med
 - WhatsApp: Available via website
 
 ## 🌐 Live Demo
-👉 https://fahmiwirp.github.io/MerahAsia/
+👉 https://bumkrafmedan.com
+👉 https://potensikaryamandiri.id
 
 ---
 
